@@ -7,6 +7,17 @@ Interested in learning more about this project? Check out
 
 ## Running this sample
 
+###### Setup
+
+Your OneSignal API Key & App ID and Twilio phone number need to be set in `.env.local` before running the project.
+
+```
+ONESIGNAL_API_KEY="API Ket"
+ONESIGNAL_APP_ID="App ID"
+TWILIO_PHONE_NUMBER="+18001234567"
+NEXT_PUBLIC_API_URL="http://localhost:3000/api"
+```
+
 1. Run `yarn` to install packages
 2. Run `yarn dev` to start a dev instance of the server
 
