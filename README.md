@@ -1,6 +1,6 @@
-# OneSignal + Next.js
+# Using SMS as a Fallback Option for Push Notifications
 
-compose OneSignal Web Push SDK with the OneSignal Rest API to enable SMS for users who are not subscribed to push notifications on your site. You can use this project as reference guide for implementing SMS fallback delivery in your site or app.
+This sample project demonstrates how to compose the OneSignal Web Push SDK with the OneSignal Rest API to enable SMS for users who are not subscribed to push notifications on your site. You can use this project as reference guide for implementing SMS fallback delivery in your site or app.
 
 Interested in learning more about this project? Check out
 [this blog post](https://onesignal.com/blog/using-sms-as-a-fallback-option-for-unsubscribed-push-users/).
