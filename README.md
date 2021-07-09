@@ -1,11 +1,9 @@
 # OneSignal + Next.js
 
-This example project demonstrates how to integrate OneSignal into your Next.js
-website or app. You can use this project as boilerplate or a reference for your
-own website.
+compose OneSignal Web Push SDK with the OneSignal Rest API to enable SMS for users who are not subscribed to push notifications on your site. You can use this project as reference guide for implementing SMS fallback delivery in your site or app.
 
 Interested in learning more about this project? Check out
-[this blog post](https://onesignal.com/blog/how-to-integrate-onesignal-into-a-next-app/).
+[this blog post](https://onesignal.com/blog/using-sms-as-a-fallback-option-for-unsubscribed-push-users/).
 
 ## Running this sample
 
